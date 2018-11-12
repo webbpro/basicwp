@@ -1,0 +1,2 @@
+# basicwp
+wp basic info
